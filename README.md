@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ganesh Vinod Mahajan
 
-### 💼 Aspiring Business Analyst | MBA (Information Technology)
+### 💼 Aspiring Business Analyst | 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Aspiring+Business+Analyst;Requirement+Gathering+%7C+SQL+%7C+Power+BI;Business+Documentation+Expert;Data-Driven+Problem+Solver" />
 
@@ -18,7 +18,6 @@
 
 # 💫 About Me
 
-🎓 MBA (Information Technology) 
 
 🎓 Bachelor of Engineering in **Computer Science**
 
