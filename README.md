@@ -1,24 +1,198 @@
-# 💫 About Me:
-I'm Ganesh Mahajan<br><br>🚀 Full Stack / Java Developer<br>💻 Passionate about building scalable web applications .<br><br>👨‍💻 About Me<br><br>🎓 BE in Computer Science Engineering<br>💻 Skilled in Java, Spring Boot, REST APIs, React.js, Node.js<br>📚 Always learning new technologies and improving development skills<br>🎯 Goal: Become a Professional Java Full Stack Developer
+<div align="center">
 
+# 👋 Hi, I'm Ganesh Vinod Mahajan
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ganesh-22-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ganesh-22-m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-22-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💼 Aspiring Business Analyst | MBA (Information Technology)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ganesh-22-m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Aspiring+Business+Analyst;Requirement+Gathering+%7C+SQL+%7C+Power+BI;Business+Documentation+Expert;Data-Driven+Problem+Solver" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+<img src="https://komarev.com/ghpvc/?username=ganesh-22-m&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ganesh-22-m?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/ganesh-22-m?style=for-the-badge&logo=github" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ganesh-22-m&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ganesh-22-m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 MBA (Information Technology) Student at **SAGE University**
+
+🎓 Bachelor of Engineering in **Computer Science**
+
+📊 Passionate about transforming business requirements into structured solutions.
+
+📄 Hands-on experience in:
+
+- Requirement Gathering
+- Business Documentation
+- Process Analysis
+- SQL Database Design
+- Dashboard Development
+- Business Workflow Analysis
+
+🎯 **Career Goal**
+
+To build a successful career as a Business Analyst by solving business problems using analytical thinking, structured documentation, and data-driven insights.
+
+---
+
+# 🚀 Business Analyst Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Business%20Analysis-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🛒 Shree Mart – Business Analysis Portfolio
+
+✔ Requirement Gathering
+
+✔ BRD • FRD • SRS
+
+✔ User Stories
+
+✔ RTM
+
+✔ Test Cases
+
+✔ UAT
+
+✔ SQL Database
+
+✔ ER Diagram
+
+✔ Power BI Dashboard
+
+✔ Excel Reports
+
+✔ Figma Prototype
+
+✔ Business Workflow
+
+---
+
+## 💼 Job Portal System
+
+- Business Requirement Analysis
+- SQL Database Design
+- Recruitment Workflow
+- Functional Documentation
+
+---
+
+## 💰 Personal Finance Manager
+
+- Budget Requirement Analysis
+- Expense Tracking Workflow
+- SQL Reporting
+- Financial Data Organization
+
+---
+
+# 📈 Core Competencies
+
+```text
+Business Analysis
+Requirement Gathering
+Business Process Analysis
+Stakeholder Communication
+BRD
+FRD
+SRS
+User Stories
+RTM
+UAT
+SQL
+Microsoft Excel
+Power BI
+Figma
+Jira
+Agile
+Scrum
+Documentation
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganesh-22-m&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-22-m&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-22-m&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ganesh-22-m&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Business Analysis
+- SQL Optimization
+- Power BI Dashboard Design
+- Agile & Scrum
+- Data Analytics
+- Stakeholder Management
+
+---
+
+# 📫 Connect With Me
+
+📍 Pune, Maharashtra, India
+
+💼 LinkedIn:
+**https://www.linkedin.com/in/ganesh-vinod-mahajan**
+
+📧 Professional Email:
+**(Your Professional Email)**
+
+---
+
+<div align="center">
+
+### ⭐ "Turning Business Requirements into Business Solutions." ⭐
+
+**Thanks for visiting my profile!**
+
+</div>
