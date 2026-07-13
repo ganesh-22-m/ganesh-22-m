@@ -18,7 +18,7 @@
 
 # 💫 About Me
 
-🎓 MBA (Information Technology) Student at **SAGE University**
+🎓 MBA (Information Technology) 
 
 🎓 Bachelor of Engineering in **Computer Science**
 
@@ -185,7 +185,7 @@ Documentation
 **https://www.linkedin.com/in/ganesh-vinod-mahajan**
 
 📧 Professional Email:
-**(Your Professional Email)**
+**(mahajanganesh0670@gmail.com)**
 
 ---
 
