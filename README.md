@@ -181,7 +181,7 @@ Documentation
 📍 Pune, Maharashtra, India
 
 💼 LinkedIn:
-**https://www.linkedin.com/in/ganesh-vinod-mahajan**
+**www.linkedin.com/in/ganesh-mahajan-**
 
 📧 Professional Email:
 **(mahajanganesh0670@gmail.com)**
